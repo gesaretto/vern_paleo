@@ -60,7 +60,7 @@ author: G. E. Saretto
 
 - __Plimpton O54__ (RBML) is a remarkable example of Irish MS production; its surface is smooth and "suede-like." Besides scraping and smoothing the parchment, Irish book-makers would rub it with a pumice stone; this makes it impossible for us to distinguish between flesh side and hair side (the follicles have been completely removed). (It makes the page stiffer and heavier, as well.)
 
-      - Since we are able to determine what parchment was produced in Ireland, we can also find examples of MS written on the continent whose parchment was originally prepared there.
+    - Since we are able to determine what parchment was produced in Ireland, we can also find examples of MS written on the continent whose parchment was originally prepared there.
 
 - Another feature that characterizes the Irish production of Latin MS is the use of __punctuation__; this is because the Irish were not familiar with Latin, and required an extra aid to distinguish between words and sentences on a page. The Irish were among the first people who systematically wrote Latin as a second language; for this reason, they are among the first ones to use punctuation.
 
